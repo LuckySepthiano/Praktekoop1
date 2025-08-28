@@ -1,7 +1,7 @@
 
 <?php
 // index.php
-$nama = "Peserta Praktik";
+$nama = "Lucky S";
 $waktu = date("Y-m-d H:i:s");
 ?>
 <!DOCTYPE html>
